@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c3p0Demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/connectionPool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dbcpDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dbutilDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transactionDemo" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
